@@ -1,0 +1,22 @@
+{
+  "name": "tacos2tummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jacobn88/tacos2tummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jacobn88/tacos2tummy/issues"
+  },
+  "homepage": "https://github.com/Jacobn88/tacos2tummy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
