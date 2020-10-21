@@ -24,7 +24,7 @@ app.get("/", function(req, res) {
   app.get("/api/waitlist", function(req, res) {
     return res.json();
   });
-  
+
   app.listen(PORT, function() {
     console.log("App listening on PORT " + PORT);
   });
